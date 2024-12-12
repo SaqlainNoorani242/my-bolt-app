@@ -1,1 +1,1 @@
-# my-bolt-app
+# ai-prompt-generator
